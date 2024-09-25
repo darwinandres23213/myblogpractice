@@ -2,7 +2,7 @@ body{
     display: flex;
     justify-content: center;
     text-align:center;
-    color:black;
+    color:rgb(192, 192, 194);
     font-family:'Times New Roman', Times, serif;
 }
 #container{
