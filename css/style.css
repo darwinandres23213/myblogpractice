@@ -20,3 +20,10 @@ body{
     background:green;
     
 }
+#footer{
+    position: relative;
+    top: 51%;
+    height: 10%;
+    width: 100%;
+    background: rgb(176, 126, 126);
+}
